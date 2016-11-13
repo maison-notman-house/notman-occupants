@@ -10,7 +10,8 @@ var notman_organizations = {
   "Macromeasures": "Organization/Macromeasures/",
   "Men at Heights": "Organization/Men_at_Heights/",
   "Octoraise": "Organization/Octoraise/", 
-  "Prollster": "Organization/Prollster/"
+  "Prollster": "Organization/Prollster/",
+  "Taste Bay": "Organization/Taste_Bay/"
 };
 
 var notman_people = {
