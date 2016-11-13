@@ -9,7 +9,8 @@ var notman_organizations = {
   "Les Technologies Discoshare inc.": "Organization/Les_Technologies_Discoshare/",
   "Macromeasures": "Organization/Macromeasures/",
   "Men at Heights": "Organization/Men_at_Heights/",
-  "Octoraise": "Organization/Octoraise/"
+  "Octoraise": "Organization/Octoraise/", 
+  "Prollster": "Organization/Prollster/"
 };
 
 var notman_people = {
