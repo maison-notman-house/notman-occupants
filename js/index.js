@@ -7,7 +7,8 @@ var notman_organizations = {
   "Groupe Autour du Monde": "Organization/Groupe_Autour_Du_Monde/",
   "Guides": "Organization/Guides/",
   "Les Technologies Discoshare inc.": "Organization/Les_Technologies_Discoshare/",
-  "Macromeasures": "Organization/Macromeasures"
+  "Macromeasures": "Organization/Macromeasures",
+  "Men at Heights": "Organization/Men_at_Heights"
 };
 
 var notman_people = {
