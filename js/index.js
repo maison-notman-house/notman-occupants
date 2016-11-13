@@ -3,7 +3,8 @@ var notman_organizations = {
   "reelyActive": "Organization/reelyActive/",
   "PayHero": "Organization/PayHero/",
   "FundMetric": "Organization/FundMetric/",
-  "DogSync": "Organization/DogSync/"
+  "DogSync": "Organization/DogSync/",
+  "Groupe Autour du Monde": "Organization/Groupe_Autour_Du_Monde/"
 };
 
 var notman_people = {
