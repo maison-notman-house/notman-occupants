@@ -6,7 +6,8 @@ var notman_organizations = {
   "DogSync": "Organization/DogSync/",
   "Groupe Autour du Monde": "Organization/Groupe_Autour_Du_Monde/",
   "Guides": "Organization/Guides/",
-  "Les Technologies Discoshare inc.": "Organization/Les_Technologies_Discoshare/"
+  "Les Technologies Discoshare inc.": "Organization/Les_Technologies_Discoshare/",
+  "Macromeasures": "Organization/Macromeasures"
 };
 
 var notman_people = {
