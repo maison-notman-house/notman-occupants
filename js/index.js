@@ -4,7 +4,8 @@ var notman_organizations = {
   "PayHero": "Organization/PayHero/",
   "FundMetric": "Organization/FundMetric/",
   "DogSync": "Organization/DogSync/",
-  "Groupe Autour du Monde": "Organization/Groupe_Autour_Du_Monde/"
+  "Groupe Autour du Monde": "Organization/Groupe_Autour_Du_Monde/",
+  "Guides": "Organization/Guides/"
 };
 
 var notman_people = {
