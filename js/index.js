@@ -5,7 +5,8 @@ var notman_organizations = {
   "FundMetric": "Organization/FundMetric/",
   "DogSync": "Organization/DogSync/",
   "Groupe Autour du Monde": "Organization/Groupe_Autour_Du_Monde/",
-  "Guides": "Organization/Guides/"
+  "Guides": "Organization/Guides/",
+  "Les Technologies Discoshare inc.": "Organization/Les_Technologies_Discoshare/"
 };
 
 var notman_people = {
