@@ -48,7 +48,7 @@ See [the index](https://maison-notman-house.github.io/notman-occupants/js/index.
 
 ## Adding occupants
 
-You can add an occupant in the Organization or Person folder of this repository.  Simply copy an existing organization or person and update the relevant fields in the index.html file (<title> and JSON-LD).  You can also add a square image.
+You can add an occupant in the Organization or Person folder of this repository.  Simply copy an existing organization or person and update the relevant fields in the index.html file (title and JSON-LD).  You can also add a square image.
 
 
 ## License
