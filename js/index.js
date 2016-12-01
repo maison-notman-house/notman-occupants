@@ -22,6 +22,8 @@ var notman_organizations = {
 var notman_people = {
   "Emma Williams": "Person/Emma_Williams/",
   "Ritika Dutt": "Person/Ritika_Dutt/",
+  "Thibaud Marechal": "Person/Thibaud_Marechal/",
+  "Alexandre Shee": "Person/Alexandre_Shee/",
   "Marek Zaluski": "Person/Marek_Zaluski/",
   "Andre Mas": "Person/Andre_Mas/"
 };
