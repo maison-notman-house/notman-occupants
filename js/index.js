@@ -16,7 +16,8 @@ var notman_organizations = {
   "Pyxis": "Organization/Pyxis/",
   "Real Ventures": "Organization/RealVentures/",
   "reelyActive": "Organization/reelyActive/",
-  "Taste Bay": "Organization/Taste_Bay/"
+  "Taste Bay": "Organization/Taste_Bay/",
+  "Voco": "Organization/Voco/"
 };
 
 var notman_people = {
